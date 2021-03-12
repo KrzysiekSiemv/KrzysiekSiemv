@@ -4,7 +4,7 @@ Jestem Krzysiek "KrzysiekSiemv". Jestem 17 latkiem, który lubi sobie w wolnym c
 ### Języki programowania: 
 * C# (.NET Core, .NET Framework, Unity3D); 
 * Java (początkujący); 
-* Python (początkujący); 
+* Python (początkujący, głównie skrypty do Rasbperry Pi 3B+); 
 * JavaScript (Web Dev).
 
 ### IDE, które korzystam: 
