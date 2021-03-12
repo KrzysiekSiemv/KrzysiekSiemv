@@ -11,3 +11,6 @@ Jestem Krzysiek "KrzysiekSiemv". Jestem 17 latkiem, który lubi sobie w wolnym c
 * Visual Studio Code (do Pythona, Web Dev);
 * Visual Studio 2019 (do C#);
 * IntelliJ IDEA 2020.3.2 (do Java).
+
+### Chcesz się skontaktować ze mną?
+W sprawie współpracy przy projekcie lub coś innego? Wyślij mi maila na krzysiek@siemv.pl
