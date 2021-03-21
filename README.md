@@ -17,3 +17,7 @@ Jestem Krzysiek "KrzysiekSiemv". Jestem 17 latkiem, który lubi sobie w wolnym c
 
 ### Chcesz się skontaktować ze mną?
 W sprawie współpracy przy projekcie lub coś innego? Wyślij mi maila na krzysiek@siemv.pl
+
+### Jestem na:
+- Twitch.TV - https://twitch.tv/krzysieksiemv
+- YouTube - https://www.youtube.com/channel/UCnvEuEKNhOq5rhInOu7p__w
