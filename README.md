@@ -1,5 +1,5 @@
 # O mnie
-Jestem Krzysiek "KrzysiekSiemv". Jestem 17 latkiem, który lubi sobie w wolnym czasie programować. Głównie piszę w C#, a dokładnie aplikacje desktopowe w .NET Framework (Windows Forms), a początki z tym językiem miałem w Unity 3D. Zajmuje się także Web Devem, bardziej na Front-End. Do projektowania stron WWW używam Bootstrapa 4, dlatego moje strony wyglądają jak wyglądają. Zaczynam też naukę języka programowania Java oraz Python. Początki nie są imponujące, ale nie poddaje się w nauce.
+Jestem Krzysiek "KrzysiekSiemv". Jestem 17 latkiem, który lubi sobie w wolnym czasie programować. Głównie piszę w C#, a dokładnie aplikacje desktopowe w .NET Framework (Windows Forms), a początki z tym językiem miałem w Unity 3D. Zajmuje się projektowaniem stron WWW. Do projektowania stron WWW używam Bootstrapa 4, dlatego moje strony wyglądają jak wyglądają. Zaczynam też naukę języka programowania Java oraz Python. Początki nie są imponujące, ale nie poddaje się w nauce.
 <br>
 ### Języki programowania: 
 * C# (.NET Core, .NET Framework, Unity3D); 
