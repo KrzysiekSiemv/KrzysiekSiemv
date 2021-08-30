@@ -1,23 +1,3 @@
-# O mnie
-Jestem Krzysiek "KrzysiekSiemv". Jestem 17 latkiem, który lubi sobie w wolnym czasie programować. Głównie piszę w C#, a dokładnie aplikacje desktopowe w .NET Framework (Windows Forms), a początki z tym językiem miałem w Unity 3D. Zajmuje się projektowaniem stron WWW. Do projektowania stron WWW używam Bootstrapa 4, dlatego moje strony wyglądają jak wyglądają. Zaczynam też naukę języka programowania Java oraz Python. Początki nie są imponujące, ale nie poddaje się w nauce.
-<br>
-### Języki programowania: 
-* C# (.NET Core, .NET Framework, Unity3D); 
-* Java (początkujący); 
-* Python (początkujący, głównie skrypty do Rasbperry Pi 3B+); 
-* JavaScript (Web Dev).
-
-### IDE, które korzystam: 
-* Visual Studio Code (do Pythona, Web Dev);
-* Visual Studio 2019 (do C#);
-* IntelliJ IDEA 2020.3.2 (do Java).
-
-### Języki:
-* Polski (ojczysty), Angielski (zaawansowany), Hiszpański (początkujący)
-
-### Chcesz się skontaktować ze mną?
-W sprawie współpracy przy projekcie lub coś innego? Wyślij mi maila na krzysiek@siemv.pl
-
-### Jestem na:
-- Twitch.TV - https://twitch.tv/krzysieksiemv
-- YouTube - https://www.youtube.com/channel/UCnvEuEKNhOq5rhInOu7p__w
+Cześć! Jestem Krzysiek. Mam 18 lat i głównie zajmuje się projektami gier <strong>(Unity)</strong> lub oprogramowania desktopowego <strong>(projekty Windows Forms)</strong>. Głównie programuje w języku <strong>C#</strong>. Moim głównym IDE jest <strong>Visual Studio</strong> (<strong>2019</strong> do Windows Forms, <strong>Code</strong> do innych). W moim portfolio można ujrzeć też projekty napisane w <strong>Python</strong>, lecz są to skrypty dla Raspberry Pi. Projektuje także strony internetowe, głównie od strony front-end (czyli <strong>HTML + CSS + JavaScript</strong>). Nie korzystam z kreatorów stron WWW, takich jak Adobe XD. Piszę je od podstaw lub korzystam ze swoich szablonów, które wcześniej stworzyłem. 
+<br> 
+Mogę także pomóc w administrowaniu serwera, konfigurowaniu usług serwerów Linux (np. Apache, Samba, Postfix, MariaDB, Proftpd) lub Windows Server (np. IIS, Active Directory).
