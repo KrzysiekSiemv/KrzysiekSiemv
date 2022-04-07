@@ -14,3 +14,7 @@ Jestem początkującym programistą zajmującym się tworzeniem aplikacji mobiln
 - IntelliJ Idea
 - Visual Studio Code, Visual Studio 2022
 - Trello, Jira
+
+### Disclaimer
+
+Obecnie nie ma jeszcze repozytoriów publicznych od aplikacji SimpleSocial i ShareNote oraz strony internetowej SellPi, gdyż wykorzystują one połączenie z bazą danych
