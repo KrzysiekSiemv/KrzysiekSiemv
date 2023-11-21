@@ -2,13 +2,14 @@
 - HTML, CSS, JavaScript, **PHP**
 - **Java**, Kotlin, Android SDK
 - MySQL, **MariaDB**
-- C#, .NET Framework, Windows Forms, ASP.NET Razor Pages
+- C#, .NET MAUI, .NET Framework, Windows Forms
+- Angular, TypeScript
 
 ### Narzędzia, które używam
 - Android Studio
 - IntelliJ Idea
 - **PHPStorm**
-- Visual Studio Code, Visual Studio 2022
+- **Visual Studio Code**, Visual Studio 2022
 - Trello, Jira
 - Git
 
